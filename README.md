@@ -35,8 +35,8 @@ The demo has been tested in OS X, in the following browsers:
   transformation of arcs.
 
 In order to minify the code, I wrote my own "JSCompressor" in Python, based on
-the original [JSCrush by Aivo Paas](www.iteral.com/jscrush), but with some
-functionalities that help when trying to find an optimal minimizable code,
+the original [JSCrush by Aivo Paas](http://www.iteral.com/jscrush/), but with
+some functionalities that help when trying to find an optimal minimizable code,
 obtaining an even more reduced output. Everything else has been done manually,
 with some help from my JSCompressor script.
 
@@ -81,4 +81,4 @@ Copyright
 
 Copyright (c) 2013 Pablo Caro. All Rights Reserved.
 
-Pablo Caro <<pablo@pcaro.es>> - <http://pcaro.es/>
+Pablo Caro <<me@pcaro.es>> - <http://pcaro.es/>
