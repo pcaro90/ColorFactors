@@ -76,9 +76,11 @@ _Cool fact_: The most used character in this script before compression is "i",
 with 74 appearances; followed by "(" and ")", with 73 appearances each; and by
 "=" and ";", tied with 59 appearances each (without counting the comments!).
 
-Copyright
----------
+License
+-------
 
 Copyright (c) 2013 Pablo Caro. All Rights Reserved.
 
 Pablo Caro <<me@pcaro.es>> - <http://pcaro.es/>
+
+See LICENSE file.
